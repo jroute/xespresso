@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<button version="1.00 " language="ko">
+	<information>
+		<folder>01-ko</folder> 
+		<lang>Korean</lang>
+		<license><![CDATA[수정, 재배포 가능합니다.]]></license>
+		<created>2009-02-13</created>
+	</information> 
+	<author>
+		<name>(주)플랜아이:박은정</name>
+		<homepage>http://plani.co.kr</homepage>
+		<email></email>
+	</author>
+	<icons>
+		<item0>btn_list.jpg</item0> 
+		<item1>btn_write.jpg</item1> 
+		<item2>btn_modify.jpg</item2> 
+		<item3>btn_reply.jpg</item3> 
+		<item4>btn_delete.jpg</item4> 
+	</icons>
+</button>

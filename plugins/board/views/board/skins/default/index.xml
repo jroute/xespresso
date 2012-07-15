@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin version="1.00 " language="ko">
+	<information>
+		<folder>default</folder> 
+		<name>기본 스킨</name> 
+		<color>Cadetblue</color>
+		<version>1.00</version>
+		<description><![CDATA[ 기본 스킨입니다.]]></description>
+		<license><![CDATA[수정, 재배포 가능합니다.]]></license>
+	</information> 
+	<author>
+		<name>(주)플랜아이, 블루비</name>
+		<homepage>http://plani.co.kr, http://blueb.net/blog</homepage>
+		<email>blueb@plani.co.kr</email>
+	</author>
+	<thumbnail>
+		<imgsrc></imgsrc>
+	</thumbnail>
+</skin>

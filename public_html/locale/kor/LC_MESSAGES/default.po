@@ -1,0 +1,190 @@
+
+msgid "num"
+msgstr "번호"
+
+msgid "file"
+msgstr "파일"
+
+msgid "subject"
+msgstr "제목"
+
+msgid "content"
+msgstr "내용"
+
+msgid "name"
+msgstr "작성자"
+
+msgid "created"
+msgstr "작성일"
+
+msgid "hit"
+msgstr "조회수"
+
+msgid "notdata"
+msgstr "등록된 데이터가 없습니다."
+
+msgid "category"
+msgstr "카테고리"
+
+msgid "email"
+msgstr "이메일"
+
+msgid "homepage"
+msgstr "홈페이지"
+
+msgid "password"
+msgstr "비밀번호"
+
+msgid "ip"
+msgstr "아이피"
+
+msgid "prev"
+msgstr "이전글"
+
+msgid "next"
+msgstr "다음글"
+
+msgid "comment"
+msgstr "덧글"
+
+msgid "wv"
+msgstr "보안문자"
+
+msgid "wv-msg"
+msgstr "좌측에 보이는 숫자 및 문자를 입력하십시오"
+
+msgid "wv-refresh"
+msgstr "이미지 새로고침"
+
+msgid "del-msg"
+msgstr "글등록시 입력한 비밀번호를 입력하십시오"
+
+msgid "del-qmsg"
+msgstr "삭제하시겠습니까?"
+
+
+msgid "write"
+msgstr "글쓰기"
+
+msgid "list"
+msgstr "목록"
+
+msgid "modify"
+msgstr "수정"
+
+msgid "confirm"
+msgstr "확인"
+
+msgid "cancel"
+msgstr "취소"
+
+msgid "delete"
+msgstr "삭제"
+
+msgid "reply"
+msgstr "답글"
+
+msgid "comment"
+msgstr "댓글"
+
+msgid "message"
+msgstr "메시지"
+
+msgid "alert"
+msgstr "알림"
+
+msgid "Please login to rate"
+msgstr "로그인 후 이용할 수 있습니다."
+
+msgid "Thanks for your rating"
+msgstr "평가해주셔서 감사합니다."
+
+msgid "Click to remove your rating"
+msgstr "평가를 취소하려면 클릭하세요"
+
+msgid "Really bad"
+msgstr "매우 나쁨"
+
+msgid "Bad"
+msgstr "나쁨"
+
+msgid "Average"
+msgstr "보통"
+
+msgid "Good"
+msgstr "좋음"
+
+msgid "Really good"
+msgstr "매우 좋음"
+
+
+msgid "Please enter your name."
+msgstr "이름을 입력하십시오"
+
+msgid "Invalid email format."
+msgstr "이메일 형식이 올바르지 않습니다."
+
+msgid "Invalid website format."
+msgstr "웹사이트주소 형식이 올바르지 않습니다."
+
+msgid "Please enter your password."
+msgstr "비밀번호를 입력하십시오"
+
+msgid "Please write a comment."
+msgstr "댓글을 작성하십시오."
+
+msgid "Invalid captcha."
+msgstr "보안문자를 확인하십시오."
+
+msgid "Comment have been registered."
+msgstr "댓글이 등록 되었습니다."
+
+msgid "[Alert] Check the following items"
+msgstr "[알림] 아래 항목을 확인 하십시오"
+
+msgid "Comment has been deleted."
+msgstr "댓글을 삭제하였습니다."
+
+msgid "[Error] Can not be deleted."
+msgstr "[오류] 살제할 수 없습니다."
+
+msgid "Attach File"
+msgstr "첨부파일"
+
+msgid "twitter"
+msgstr "트위터"
+
+msgid "facebook"
+msgstr "페이스북"
+
+msgid "me2day"
+msgstr "미투데이"
+
+msgid "delicious"
+msgstr "딜리셔스 북마크"
+
+msgid "font"
+msgstr "폰트"
+
+msgid "font large"
+msgstr "크게"
+
+msgid "font small"
+msgstr "작게"
+
+msgid "print"
+msgstr "프린트"
+
+msgid ":: Category ::"
+msgstr ":: 분류 ::"
+
+msgid "Captcha"
+msgstr "보안문자"
+
+msgid ":: All ::"
+msgstr ":: 전체 ::"
+
+
+
+
+

@@ -1,0 +1,44 @@
+
+/*** 갤러리 스타일 ***/
+.board-gallery {
+	list-style: none;
+	width:100%;
+	margin:0;
+}
+
+
+
+
+ul.board-gallery li {
+
+	float:left;
+	position: relative;
+	margin:10px;
+	
+}
+
+.board-gallery li div.thumb {
+	text-align: center;
+	position: relative;
+}
+.board-gallery li div.thumb p {
+	bottom:0;
+	margin:0;
+	position: absolute;
+	border:1px solid #E6E6E6;
+	text-align:center;
+}
+
+ul.board-gallery li img {
+	margin:5px;
+}
+
+
+ul.board-gallery li dl dt {
+
+}
+
+ul.board-gallery li dl dd {
+	margin:0;
+	color:#777;
+}

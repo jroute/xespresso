@@ -1,0 +1,24 @@
+#question {
+	list-style:none;
+}
+#question li.que {
+	margin-bottom:15px;
+}
+
+
+.graph {
+	background:#FFCC33;
+	height:5px;
+	line-height:5px;
+	font-size:5px;
+	display:block;
+}
+
+
+.del-que {
+	vertical-align: middle;
+}
+
+.etc-list {
+	cursor:pointer;
+}

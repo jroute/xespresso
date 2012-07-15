@@ -1,0 +1,157 @@
+
+.gBtn a input { background-color:transparent; border: 0 none; margin: 0; padding: 5px 0 0;}
+.gBtn a button { background-color:transparent; border: 0 none; margin: 0; padding: 5px 0 0;}
+
+/* .gBtn1 */
+.gBtn1 a{display:block; background:url('./images/gBtn1_bg.gif') left 0; float:left; font:12px 굴림; color:#555; padding-left:6px; text-decoration:none; height:27px; cursor:pointer; margin-right:3px; overflow:hidden}
+.gBtn1 a:hover{background:url('./images/gBtn1_bg.gif') left -27px}
+.gBtn1 a span{display:block; float:left; background:url('./images/gBtn1_bg.gif') right 0; line-height:240%; padding-right:6px; height:27px; overflow:hidden}
+.gBtn1 a:hover span{background:url('./images/gBtn1_bg.gif') right -27px; color:#0A82A7}
+
+
+/* .gBtn2 */
+.gBtn2 a{display:block; background:url('./images/gBtn2_bg.gif') left 0; float:left; font:12px 굴림; color:#eee; padding-left:6px; text-decoration:none; height:27px; cursor:pointer; margin-right:3px; overflow:hidden}
+.gBtn2 a:hover{background:url('./images/gBtn2_bg.gif') left -27px}
+.gBtn2 a span{display:block; float:left; background:url('./images/gBtn2_bg.gif') right 0; line-height:240%; padding-right:6px; height:27px; overflow:hidden}
+.gBtn2 a:hover span{background:url('./images/gBtn2_bg.gif') right -27px; color:#fff}
+
+/* .gBtn3 */
+.gBtn3 a{display:block; background:url('./images/gBtn3_bg.gif') left 0; float:left; font:12px 굴림; color:#fff; padding-left:6px; text-decoration:none; height:27px; cursor:pointer; margin-right:3px; overflow:hidden}
+.gBtn3 a:hover{background:url('./images/gBtn3_bg.gif') left -27px}
+.gBtn3 a span{display:block; float:left; background:url('./images/gBtn3_bg.gif') right 0; line-height:240%; padding-right:6px; height:27px; overflow:hidden}
+.gBtn3 a:hover span{background:url('./images/gBtn3_bg.gif') right -27px; color:#fff}
+
+/* .gBtn4 */
+.gBtn4 a{display:block; background:url('./images/gBtn4_bg.gif') left 0; float:left; font:12px 굴림; color:#FEF4F3; padding-left:6px; text-decoration:none; height:27px; cursor:pointer; margin-right:3px; overflow:hidden}
+.gBtn4 a:hover{background:url('./images/gBtn4_bg.gif') left -27px}
+.gBtn4 a span{display:block; float:left; background:url('./images/gBtn4_bg.gif') right 0; line-height:240%; padding-right:6px; height:27px; overflow:hidden}
+.gBtn4 a:hover span{background:url('./images/gBtn4_bg.gif') right -27px; color:#fff}
+
+/* .gBtn5 */
+.gBtn5 a{display:block; background:url('./images/gBtn5_bg.gif') left 0; float:left; font:12px 굴림; color:#FF6215; padding-left:6px; text-decoration:none; height:27px; cursor:pointer; margin-right:3px; overflow:hidden}
+.gBtn5 a:hover{background:url('./images/gBtn5_bg.gif') left -27px}
+.gBtn5 a span{display:block; float:left; background:url('./images/gBtn5_bg.gif') right 0; line-height:240%; padding-right:6px; height:27px; overflow:hidden}
+.gBtn5 a:hover span{background:url('./images/gBtn5_bg.gif') right -27px; color:#BB3D00}
+
+/* .gBtn6 */
+.gBtn6 a{display:block; background:url('./images/gBtn6_bg.gif') left 0; float:left; font:12px 굴림; color:#555; padding-left:6px; text-decoration:none; height:27px; cursor:pointer; margin-right:3px; overflow:hidden}
+.gBtn6 a:hover{background:url('./images/gBtn6_bg.gif') left -27px}
+.gBtn6 a span{display:block; float:left; background:url('./images/gBtn6_bg.gif') right 0; line-height:240%; padding-right:6px; height:27px; overflow:hidden}
+.gBtn6 a:hover span{background:url('./images/gBtn6_bg.gif') right -27px; color:#0A82A7}
+
+/* .gBtn7 */
+.gBtn7 a{display:block; background:url('./images/gBtn7_bg.gif') left 0; float:left; font:12px 굴림; color:#777; padding-left:6px; text-decoration:none; height:27px; cursor:pointer; margin-right:3px; overflow:hidden}
+.gBtn7 a:hover{background:url('./images/gBtn7_bg.gif') left -27px}
+.gBtn7 a span{display:block; float:left; background:url('./images/gBtn7_bg.gif') right 0; line-height:240%; padding-right:6px; height:27px; overflow:hidden}
+.gBtn7 a:hover span{background:url('./images/gBtn7_bg.gif') right -27px; color:#000}
+
+/* .gBtn8 */
+.gBtn8 a{display:block; background:url('./images/gBtn8_bg.gif') left 0; float:left; font:12px 굴림; color:#eee; padding-left:6px; text-decoration:none; height:27px; cursor:pointer; margin-right:3px; overflow:hidden}
+.gBtn8 a:hover{background:url('./images/gBtn8_bg.gif') left -27px}
+.gBtn8 a span{display:block; float:left; background:url('./images/gBtn8_bg.gif') right 0; line-height:240%; padding-right:6px; height:27px; overflow:hidden}
+.gBtn8 a:hover span{background:url('./images/gBtn8_bg.gif') right -27px; color:#fff}
+
+/* .gBtn9 */
+.gBtn9 a{display:block; background:url('./images/gBtn9_bg.gif') left 0; float:left; font:12px 굴림; color:#f5fbfd; padding-left:6px; text-decoration:none; height:27px; cursor:pointer; margin-right:3px; overflow:hidden}
+.gBtn9 a:hover{background:url('./images/gBtn9_bg.gif') left -27px}
+.gBtn9 a span{display:block; float:left; background:url('./images/gBtn9_bg.gif') right 0; line-height:240%; padding-right:6px; height:27px; overflow:hidden}
+.gBtn9 a:hover span{background:url('./images/gBtn9_bg.gif') right -27px; color:#fff}
+
+/* .gBtn10 */
+.gBtn10 a{display:block; background:url('./images/gBtn10_bg.gif') left 0; float:left; font:12px 굴림; color:#FDF5EE; padding-left:6px; text-decoration:none; height:27px; cursor:pointer; margin-right:3px; overflow:hidden}
+.gBtn10 a:hover{background:url('./images/gBtn10_bg.gif') left -27px}
+.gBtn10 a span{display:block; float:left; background:url('./images/gBtn10_bg.gif') right 0; line-height:240%; padding-right:6px; height:27px; overflow:hidden}
+.gBtn10 a:hover span{background:url('./images/gBtn10_bg.gif') right -27px; color:#fff}
+
+/* .gBtn11 */
+.gBtn11 a{display:block; background:url('./images/gBtn11_bg.gif') left 0; float:left; font:12px 굴림; color:#828369; padding-left:6px; text-decoration:none; height:27px; cursor:pointer; margin-right:3px; overflow:hidden}
+.gBtn11 a:hover{background:url('./images/gBtn11_bg.gif') left -27px}
+.gBtn11 a span{display:block; float:left; background:url('./images/gBtn11_bg.gif') right 0; line-height:240%; padding-right:6px; height:27px; overflow:hidden}
+.gBtn11 a:hover span{background:url('./images/gBtn11_bg.gif') right -27px; color:#555}
+
+/* .gBtn12 */
+.gBtn12 a{display:block; background:url('./images/gBtn12_bg.gif') left 0; float:left; font:12px 굴림; color:#948A4D; padding-left:6px; text-decoration:none; height:27px; cursor:pointer; margin-right:3px; overflow:hidden}
+.gBtn12 a:hover{background:url('./images/gBtn12_bg.gif') left -27px}
+.gBtn12 a span{display:block; float:left; background:url('./images/gBtn12_bg.gif') right 0; line-height:240%; padding-right:6px; height:27px; overflow:hidden}
+.gBtn12 a:hover span{background:url('./images/gBtn12_bg.gif') right -27px; color:#615932}
+
+/* .gBtn13 */
+.gBtn13 a{display:block; background:url('./images/gBtn13_bg.gif') left 0; float:left; font:12px 굴림; color:#896B40; padding-left:6px; text-decoration:none; height:27px; cursor:pointer; margin-right:3px; overflow:hidden}
+.gBtn13 a:hover{background:url('./images/gBtn13_bg.gif') left -27px}
+.gBtn13 a span{display:block; float:left; background:url('./images/gBtn13_bg.gif') right 0; line-height:240%; padding-right:6px; height:27px; overflow:hidden}
+.gBtn13 a:hover span{background:url('./images/gBtn13_bg.gif') right -27px; color:#4F3E24}
+
+/* .gBtn14 */
+.gBtn14 a{display:block; background:url('./images/gBtn14_bg.gif') left 0; float:left; font:12px 굴림; color:#255863; padding-left:6px; text-decoration:none; height:27px; cursor:pointer; margin-right:3px; overflow:hidden}
+.gBtn14 a:hover{background:url('./images/gBtn14_bg.gif') left -27px}
+.gBtn14 a span{display:block; float:left; background:url('./images/gBtn14_bg.gif') right 0; line-height:240%; padding-right:6px; height:27px; overflow:hidden}
+.gBtn14 a:hover span{background:url('./images/gBtn14_bg.gif') right -27px; color:#11292F}
+
+/* .gBtn15 */
+.gBtn15 a{display:block; background:url('./images/gBtn15_bg.gif') left 0; float:left; font:12px 굴림; color:#AB577D; padding-left:6px; text-decoration:none; height:27px; cursor:pointer; margin-right:3px; overflow:hidden}
+.gBtn15 a:hover{background:url('./images/gBtn15_bg.gif') left -27px}
+.gBtn15 a span{display:block; float:left; background:url('./images/gBtn15_bg.gif') right 0; line-height:240%; padding-right:6px; height:27px; overflow:hidden}
+.gBtn15 a:hover span{background:url('./images/gBtn15_bg.gif') right -27px; color:#6A354E}
+
+/* .gBtn16 */
+.gBtn16 a{display:block; background:url('./images/gBtn16_bg.gif') left 0; float:left; font:12px 굴림; color:#6F824A; padding-left:6px; text-decoration:none; height:27px; cursor:pointer; margin-right:3px; overflow:hidden}
+.gBtn16 a:hover{background:url('./images/gBtn16_bg.gif') left -27px}
+.gBtn16 a span{display:block; float:left; background:url('./images/gBtn16_bg.gif') right 0; line-height:240%; padding-right:6px; height:27px; overflow:hidden}
+.gBtn16 a:hover span{background:url('./images/gBtn16_bg.gif') right -27px; color:#465230}
+
+/* .gBtn17 */
+.gBtn17 a{display:block; background:url('./images/gBtn17_bg.gif') left 0; float:left; font:12px 굴림; color:#455E72; padding-left:6px; text-decoration:none; height:27px; cursor:pointer; margin-right:3px; overflow:hidden}
+.gBtn17 a:hover{background:url('./images/gBtn17_bg.gif') left -27px}
+.gBtn17 a span{display:block; float:left; background:url('./images/gBtn17_bg.gif') right 0; line-height:240%; padding-right:6px; height:27px; overflow:hidden}
+.gBtn17 a:hover span{background:url('./images/gBtn17_bg.gif') right -27px; color:#364A5A}
+
+/* .gBtn18 */
+.gBtn18 a{display:block; background:url('./images/gBtn18_bg.gif') left 0; float:left; font:12px 굴림; color:#F4F4FE; padding-left:6px; text-decoration:none; height:27px; cursor:pointer; margin-right:3px; overflow:hidden}
+.gBtn18 a:hover{background:url('./images/gBtn18_bg.gif') left -27px}
+.gBtn18 a span{display:block; float:left; background:url('./images/gBtn18_bg.gif') right 0; line-height:240%; padding-right:6px; height:27px; overflow:hidden}
+.gBtn18 a:hover span{background:url('./images/gBtn18_bg.gif') right -27px; color:#fff}
+
+/* .gBtn19 */
+.gBtn19 a{display:block; background:url('./images/gBtn19_bg.gif') left 0; float:left; font:12px 굴림; color:#FEF7F3; padding-left:6px; text-decoration:none; height:27px; cursor:pointer; margin-right:3px; overflow:hidden}
+.gBtn19 a:hover{background:url('./images/gBtn19_bg.gif') left -27px}
+.gBtn19 a span{display:block; float:left; background:url('./images/gBtn19_bg.gif') right 0; line-height:240%; padding-right:6px; height:27px; overflow:hidden}
+.gBtn19 a:hover span{background:url('./images/gBtn19_bg.gif') right -27px; color:#fff}
+
+/* .gBtn21 */
+.gBtn21 a{display:block; background:url('./images/gBtn21_bg.gif') left 0; float:left; font:12px 굴림; color:#DDE4E9; padding-left:6px; text-decoration:none; height:27px; cursor:pointer; margin-right:3px; overflow:hidden}
+.gBtn21 a:hover{background:url('./images/gBtn21_bg.gif') left -27px}
+.gBtn21 a span{display:block; float:left; background:url('./images/gBtn21_bg.gif') right 0; line-height:240%; padding-right:6px; height:27px; overflow:hidden}
+.gBtn21 a:hover span{background:url('./images/gBtn21_bg.gif') right -27px; color:#fff}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

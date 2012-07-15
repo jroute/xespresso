@@ -1,0 +1,70 @@
+	p{
+		font-family:arial;
+		
+	}
+	a{
+		color:#000;
+		font-family:arial;
+		font-size:0.8em;
+	}
+	
+	.dhtmlgoodies_tree,#floatingContainer{
+		margin:0px;
+		padding:0px;
+	}
+	.dhtmlgoodies_tree ul{	/* Sub menu groups */
+		margin-left:20px;	/* Left spacing */
+		padding-left:0px;
+		display:none;	/* Initially hide sub nodes */
+	}
+	
+	#floatingContainer ul{
+		margin-left:20px;	/* Left spacing */
+		padding-left:0px;	
+	}
+	.dhtmlgoodies_tree li,#floatingContainer li{	/* Nodes */
+		list-style-type:none;
+		vertical-align:middle;
+		
+	}
+	.dhtmlgoodies_tree li a,#floatingContainer li a{	/* Node links */
+		color:#000;
+		text-decoration:none;
+		font-family:arial;
+		font-size:1em;
+		padding-left:1px;
+		line-height:13px;
+		margin-left:2px;
+		
+	}
+	.dhtmlgoodies_tree li a.highlightedNodeItem{
+		color:#FFF;
+		background-color:#009;
+	}
+	
+		
+	body{
+		margin:0px;
+		padding:0px;
+	}
+	
+	.dhtmlgoodies_tree input.folderTreeTextBox{	/* Css for the text input - rename item */
+		font-size:10px;
+		margin:0px;
+		padding:0px;
+		height:12px;
+	}
+	
+	.dhtmlgoodies_tree li, .tv .tvi {
+	    background: url("/js/drag-drop-folder-tree/images/folder_sub_line.gif") repeat-y scroll 0 0 transparent;
+	}
+	.dhtmlgoodies_tree .tvic {
+	    background-image: url("/js/drag-drop-folder-tree/images/folder_sub.gif");
+	}
+	.dhtmlgoodies_tree .tvie {
+	    background-image: url("/js/drag-drop-folder-tree/images/folder_sub.gif");
+	}
+	.dhtmlgoodies_tree .tvil {
+	    background: url("/js/drag-drop-folder-tree/images/folder_lastsub.gif") no-repeat scroll 0 0 transparent;
+	}
+	

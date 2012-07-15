@@ -1,0 +1,284 @@
+img {
+	border:none;
+}
+.alignleft {
+	text-align:left !important;
+}
+
+.aligncenter {
+	text-align:center !important;
+}
+
+.align-right {
+	text-align:right !important;
+}
+
+
+#board-wrap {
+	margin:0 auto;
+}
+
+#board-list {
+	margin-top:10px;
+	width:100%;
+}
+
+/*** 리스트 테이블 스타일 ***/
+#tbl-list {
+	width:100%;
+	border-collapse:collapse;
+}
+	#tbl-list th {
+		border-collapse:collapse;
+		padding:5px;
+		border:1px solid #e6e6e6;
+		background:#F6F6F6;
+		font-family:돋음;
+		font-size:11px;
+	}
+	#tbl-list td {
+		border-collapse:collapse;
+		padding:5px;
+		border:1px solid #F6F6F6;
+	}
+
+
+/*** 리스트 스타일 ***/
+#board-list-top{
+
+}
+	#board-list-page{
+		float:left;
+	}
+	#board-list-category{
+		float:right;
+	}
+.tbl-board-list {
+	clear:both;
+	width:100%;
+	border-top:2px solid #D9D9D9;
+	border-bottom:2px solid #D9D9D9;
+}
+.tbl-board-list thead {
+	background:#F1F1F4;
+}
+
+.tbl-board-list th{
+	height:30px;
+	border-bottom:1px solid #D9D9D9;
+}
+
+.tbl-board-list td {
+	padding:5px;
+	border-bottom:1px solid #D9D9D9;
+	text-align:center;
+}
+
+#paging-area {
+	text-align:center;
+	margin:5px;
+}
+
+#search-area {
+	background:#e6e6e6;
+	padding:5px;
+	text-align:right;
+	height:25px;
+}
+/*** 썸네일 리스트 스타일 ***/
+
+
+
+
+/*** 갤러리 스타일 ***/
+.gallery {
+	width:630px;
+	margin:0 auto;
+	list-style:none;	
+}
+
+.gallery li {
+	float:left;
+	width:135px;
+	height:160px;
+	margin:10px;
+}
+
+.gallery li .thumb {
+	width:135px;
+	text-align:center;
+}
+
+.gallery li .thumb img {
+	border:1px solid #000;
+}
+
+/*** 등록/수정 ***/
+#board-form-wrap {
+	width:630px;
+}
+
+/*** 뷰 ***/
+#board-view-wrap {
+	width:630px;
+}
+#commentMessage {
+	margin:10px 0 10px 0;
+	border:1px solid #FF9900;
+	background:#FFF5E6;
+	padding:20px;
+	color:red;
+	text-align:center;
+}
+.tbl-board-view {
+	border-collapse:collapse !important;
+	margin-top:10px;
+	border-top:2px solid #D9D9D9 !important;
+	border-bottom:2px solid #D9D9D9 !important;
+	width:630px;
+}
+
+.tbl-board-view th{
+	text-align:right;
+	padding-right:10px;
+	background:#F6F6F6;
+	border-top:1px solid #e6e6e6;
+	border-bottom:1px solid #e6e6e6;
+	font-family:돋음;
+	font-size:11px;
+}
+
+.tbl-board-view td {
+	padding:5px;
+	border-top:1px solid #e6e6e6;
+	border-bottom:1px solid #e6e6e6;
+}
+
+.cmt-tbl {
+	width:100%;
+	border-collapse:collapse;
+}
+
+.cmt-tbl th {
+	background:#F6F6F6;
+	padding:2px 10px 2px 2px;
+	border-top:1px solid #e6e6e6;
+	border-bottom:1px solid #e6e6e6;
+	font-family:돋음;
+	font-size:11px;
+	text-align:right;
+	
+}
+
+.cmt-tbl td {
+	padding:4px;
+	border-top:1px solid #e6e6e6;
+	border-bottom:1px solid #e6e6e6;
+	font-family:돋음;
+	font-size:11px;
+}
+.cmt-text {
+	border:1px solid #C0C0C0;
+	background:#F5F5F5;
+	width:150px;
+}
+
+.cmt-textarea {
+	width:99%;
+	height:60px;
+	border:1px solid #C0C0C0;
+	background:#F5F5F5;
+}
+
+.cmt-del {
+	text-align:right;
+	font-size:8pt;
+	font-family:tahoma;
+}
+
+.cmt-date {
+	text-align:right;
+	font-size:7pt;
+	font-family:tahoma;
+	line-height:10px;
+}
+
+.cmt-ip {
+	text-align:right;
+	font-size:7pt;
+	font-family:tahoma;
+	line-height:10px;
+}
+
+#btn-area-comment {
+	text-align:right;
+	margin:5px;
+}
+
+#tbl-neighbors {
+	border-collapse:collapse;
+	width:100%;
+}
+
+#tbl-neighbors th {
+	font-family:돋음;
+	font-size:11px;
+}
+#tbl-neighbors .prev {
+	border-top:2px solid #e6e6e6;
+	border-bottom:1px solid #e6e6e6;
+	padding:5px;
+}
+
+#tbl-neighbors .next {
+	border-top:1px solid #e6e6e6;
+	border-bottom:2px solid #e6e6e6;
+	padding:5px;
+}
+
+
+.tbl-board-file {
+	width:100%;
+}
+.tbl-board-file th {
+	border:none;
+}
+.tbl-board-file td {
+	border:none;
+}
+
+#board-confirm-wrap {
+	width:630px;
+}
+.confirm-title {
+	margin:5px 5px 0 5px;
+	font-weight:bold;
+}
+
+/*** 입력 폼 ***/
+.txt {
+	border:1px solid #808080;
+}
+
+.width99ps	{ width:99%;}
+.width100px	{ width:100px;}
+.width150px	{ width:150px; }
+.width200px	{ width:200px;}
+.width250px	{width:250px; }
+
+#file-list { cursor:pointer;}
+
+.error-message {
+	color:#CC0000;
+	margin-top:5px;
+	padding:5px 5px 5px 10px;
+	background:#FFDFCA;
+}
+
+/*** view ***/
+#btn-area {
+	clear:both;
+	text-align:right;
+	margin:10px 5px 5px 5px;
+}
+

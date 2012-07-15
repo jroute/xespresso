@@ -1,0 +1,55 @@
+#login-box {
+	margin:20px auto;
+	padding:20px 0 0 0;
+	width:500px;
+	border-radius: 3px 3px 3px 3px;
+	background-color:#f2faff;
+	border:1px solid #dedede;
+}
+
+.agree-box {
+	
+	text-align:center;
+	margin:20px auto;
+	padding:20px;
+	width:650px;
+	border-radius: 3px 3px 3px 3px;
+	background-color:#f2faff;
+	border:1px solid #dedede;
+	
+}
+
+
+.agree-box {
+	
+	text-align:center;
+	margin:20px auto;
+	padding:20px;
+	width:650px;
+	border-radius: 3px 3px 3px 3px;
+	background-color:#f2faff;
+	border:1px solid #dedede;
+	
+}
+
+.help-block {
+    display: block;
+    line-height: 18px;
+    margin: 5px 0 0 !important;
+	  color: #777777;
+    font-size: 12px;    
+}
+
+#introduce {width:300px;}
+
+.sns {
+	font-weight: bold;
+	font-size: 13pt;
+	color:gray;
+}
+
+#sns-facebook {width:120px;}
+#sns-twitter {width:120px;}
+#sns-me2day {width:120px;}
+
+

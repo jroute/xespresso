@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* Layout */
+
+#recent-latest {
+	clear:both;
+	width:100%;
+}
+
+
+#recent-latest div.latest {
+	width:300px;
+}
+
+.latest li div {
+	color:#16A314;
+}
+.latest li div a {
+	color:#16A314;
+}
+
+.latest li span {
+	color:gray;
+}
+
+#copyright {
+	clear: both;
+	text-align: center;
+	width:100%;
+}

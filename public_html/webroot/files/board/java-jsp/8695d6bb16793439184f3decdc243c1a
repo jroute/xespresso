@@ -1,0 +1,27 @@
+#!/bin/sh
+#
+# Scripted by Plani Uks.
+#
+
+rdate -s time.bora.net
+
+TODAY=$(date +%Y%m%d)
+RMTODAY=$(date +%Y%m%d --date '1 days ago')
+TODAYWEEK=$(date +%w)
+
+rm -rf /backup/hosting/$RMTODAY
+mkdir /backup/hosting/$TODAY
+cd /backup/hosting/$TODAY
+
+for x in $(ls -l /home|awk '{print $9}')
+        do
+        tar czfp $x.tar.gz /home/$x/
+done
+
+tar czfp 01_mysql.tar.gz /var/lib/mysql
+tar czfp 02_etc.tar.gz /etc/
+df -h > hdd.txt
+
+
+
+sshd: ./etc/denyip

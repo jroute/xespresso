@@ -1,0 +1,29 @@
+
+
+/*** dashboard ***/
+.dashboard-box {
+	display:none;
+
+}
+
+.dashboard-box ul {
+	list-style-type: none;
+	margin:5px;
+}
+
+.dashboard-box ul li {
+	margin-bottom:3px;
+	_margin-bottom:0px;
+}
+
+.dashboard-title {
+	padding: 5px 5px 5px 10px;
+	border:1px solid #C0C0C0;
+}
+
+.column { width: 250px; float: left; padding-bottom: 100px; margin:15px;}
+.portlet { margin: 0 1em 1em 0; }
+.dashboard-title { margin:4px;}	
+.dashboard-title .ui-icon { float: right; }
+.ui-sortable-placeholder { clear:both;display: block; border: 1px dotted black !important; visibility: visible !important; }
+.ui-sortable-placeholder * { visibility: hidden; }

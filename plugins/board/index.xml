@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<plugin>
+	<plugin>board</plugin>	
+	<name>게시판</name>
+	<controller>board</controller>
+	<model>Board.BoardSetup</model>
+	<action>lst</action>
+	<primaryKey>bid</primaryKey>
+	<fields>
+		<field>bid</field>
+		<field>bname</field>		
+	</fields>
+</plugin>

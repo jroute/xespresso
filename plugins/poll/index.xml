@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<plugin>
+	<plugin>poll</plugin>	
+	<name>설문조사</name>
+	<controller>poll</controller>
+	<model>Poll.PollSetup</model>
+	<action>index</action>
+	<primaryKey>id</primaryKey>
+	<fields>
+		<field>id</field>
+		<field>title</field>		
+	</fields>
+</plugin>

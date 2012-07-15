@@ -1,0 +1,35 @@
+	#preview-img {
+		border:1px solid #D7D7D7;
+		width:100px;
+		height:75px;
+	}
+
+	#file-area {
+		border:1px solid #D7D7D7;
+		width:100%;
+		height:75px;
+		overflow:auto;
+	}
+
+	#file-list {
+		list-style:none;
+		margin:5px;
+		margin-left:5px;
+	}
+
+
+	#file-list li img {
+		vertical-align:middle;
+	}
+
+	.swfactive {
+		background:#11A0D0;
+		color:#fff;
+	}
+	.progressContainer {
+		margin:5px 0 !important;
+	}
+
+	.current {
+		font-weight:bold;color:red;
+	}

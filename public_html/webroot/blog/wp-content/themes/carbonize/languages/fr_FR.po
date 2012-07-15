@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Last-Translator: Nischal Maniar <nischal_maniar@hotmail.com>\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#. Text in function
+#: Carbonize/item.php:18
+msgid "% comments"
+msgstr "% commentaires"
+
+#. Text in function
+#: Carbonize/comments.php:62
+msgid "% responses to"
+msgstr "% réponses à"
+
+#. Text in function
+#: Carbonize/functions.php:55
+#: Carbonize/comments.php:78
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#. Text in function
+#: Carbonize/comments.php:39
+msgid "%s Trackbacks &#47; Pingbacks"
+msgstr "%s Trackbacks &#47; Pingbacks"
+
+#. Text in function
+#: Carbonize/comments.php:24
+msgid "%s responses to"
+msgstr "%s réponses à"
+
+#. Text in function
+#: Carbonize/index.php:42
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Entrées anciennes"
+
+#. Text in function
+#: Carbonize/comments.php:140
+#: Carbonize/comments.php:142
+msgid "(required)"
+msgstr "(requis)"
+
+#. Text in function
+#: Carbonize/item.php:18
+msgid "1 comment"
+msgstr "1 commentaire"
+
+#. Text in function
+#: Carbonize/functions.php:56
+#: Carbonize/comments.php:79
+msgid "Edit"
+msgstr "Editer"
+
+#. Text in function
+#: Carbonize/functions.php:55
+#: Carbonize/item.php:9
+#: Carbonize/comments.php:78
+msgid "F jS, Y"
+msgstr "j F Y"
+
+#. Text in function
+#: Carbonize/functions.php:55
+#: Carbonize/comments.php:78
+msgid "H:i"
+msgstr "G:i"
+
+#. Text in echo
+#: Carbonize/comments.php:112
+msgid "Leave a reply"
+msgstr "Laisser une réponse"
+
+#. Text in echo
+#: Carbonize/comments.php:137
+msgid "Log out"
+msgstr "Déconnecté"
+
+#. Text in echo
+#: Carbonize/comments.php:137
+msgid "Log out of this account"
+msgstr "Se déconnecter de ce compte"
+
+#. Text in echo
+#: Carbonize/comments.php:137
+msgid "Logged in as"
+msgstr "Connecté en tant que"
+
+#. Text in echo
+#: Carbonize/comments.php:142
+msgid "Mail (will not be published)"
+msgstr "Email (ne sera pas publié)"
+
+#. Text in echo
+#: Carbonize/comments.php:140
+msgid "Name"
+msgstr "Nom"
+
+#. Text in function
+#: Carbonize/index.php:43
+msgid "Newer Entries &raquo;"
+msgstr "Nouvelles entrées &raquo;"
+
+#. Text in function
+#: Carbonize/item.php:18
+msgid "No comments"
+msgstr "Aucun commentaire"
+
+#. Text in function
+#: Carbonize/comments.php:62
+msgid "No responses to"
+msgstr "Aucune réponse à"
+
+#. Text in function
+#: Carbonize/comments.php:62
+msgid "One response to"
+msgstr "Une réponse à"
+
+#. Text in echo
+#: Carbonize/item.php:5
+msgid "Permanent Link to"
+msgstr "Lien permanent vers"
+
+#. Text in function
+#: Carbonize/item.php:13
+msgid "Read the rest of this entry &raquo;"
+msgstr "Lire le reste de l'entrée &raquo;"
+
+#. Text in echo
+#: Carbonize/comments.php:161
+msgid "Submit Comment"
+msgstr "Soumettre un commentaire"
+
+#. Text in echo
+#: Carbonize/comments.php:11
+msgid "This post is password protected. Enter the password to view comments"
+msgstr "Cet article est protégé par mot de passe. Entrez le mot de passe pour voir les commentaires"
+
+#. Text in echo
+#: Carbonize/comments.php:144
+msgid "Website"
+msgstr "Site web"
+
+#. Text in function
+#: Carbonize/comments.php:121
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Vous devez être <a href=\"%s\">connecté</a> pour poster un commentaire"
+
+#. Text in echo
+#: Carbonize/functions.php:52
+#: Carbonize/comments.php:75
+msgid "Your comment is awaiting moderation"
+msgstr "Votre commentaire est en attente de modération"
+
+#. Text in function
+#: Carbonize/item.php:18
+msgid "comments"
+msgstr "commentaires"
+
+#. Text in echo
+#: Carbonize/footer.php:3
+msgid "All rights reserved"
+msgstr "Tous droits réservés"
+
+#. Text in echo
+#: Carbonize/sidebar.php:39
+msgid "Archives"
+msgstr "Archives"
+
+#. Text in echo
+#: Carbonize/sidebar.php:45
+msgid "Categories"
+msgstr "Catégories"
+
+#. Text in echo
+#: Carbonize/footer.php:3
+msgid "Copyright"
+msgstr "Copyright"
+
+#. Text in echo
+#: Carbonize/item.php:9
+msgid "Posted on"
+msgstr "Signalé dessus"
+
+#. Text in echo
+#: Carbonize/sidebar.php:18
+#: Carbonize/sidebar.php:27
+msgid "Recent Comments"
+msgstr "Commentaires récents"
+
+#. Text in echo
+#: Carbonize/sidebar.php:14
+#: Carbonize/sidebar.php:26
+msgid "Recent Posts"
+msgstr "Entrées récentes"
+
+#. Text in echo
+#: Carbonize/banner.php:8
+msgid "Subscribe to Comments"
+msgstr "Souscrivez aux commentaires"
+
+#. Text in echo
+#: Carbonize/banner.php:7
+msgid "Subscribe to Posts"
+msgstr "Souscrivez aux entrées"
+
+#. Text in echo
+#: Carbonize/sidebar.php:22
+#: Carbonize/sidebar.php:28
+msgid "Tags"
+msgstr "Étiquettes"
+
+#. Text in echo
+#: Carbonize/item.php:10
+msgid "by"
+msgstr "par"
+
+#. Text in echo
+#: banner.php:13
+msgid "Home"
+msgstr "Accueil"
+

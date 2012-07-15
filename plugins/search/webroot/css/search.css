@@ -1,0 +1,43 @@
+
+.title {
+	padding:0;
+	margin:5px 0 2px 0;	
+}
+.title a {
+	color:#2200C1;
+	text-decoration: underline;
+
+}
+.date {
+	color:#767676;
+	padding:0;
+	margin:0;
+
+}
+.content {
+	padding:0;
+	margin:0;
+}
+
+.link {
+	padding:0;
+	margin:3px 0 10px 0;	
+}
+.link a {
+	color:#0E774A;
+}
+
+.hr {
+	border:none;
+	border-bottom:1px solid #E2E2E2;
+}
+
+
+ul {
+	margin-left:20px;
+}
+
+
+#content h3 {
+	margin-top:20px;
+}

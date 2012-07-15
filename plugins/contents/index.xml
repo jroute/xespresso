@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<plugin>
+	<plugin>contents</plugin>	
+	<name>CMS컨텐츠</name>
+	<controller>contents</controller>
+	<model>Contents.Content</model>
+	<action>view</action>
+	<primaryKey>id</primaryKey>
+	<fields>
+		<field>id</field>
+		<field>title</field>		
+	</fields>
+</plugin>

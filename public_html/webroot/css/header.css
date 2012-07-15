@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* Layout */
+
+#header {
+
+}
+
+#top {
+	width:1000px;
+	height:54px;
+	margin:0 auto;
+}
+	#logo {float:left;font-size:30px;font-wieght:bold;padding:10px;font-family: "Myriad Pro";font-weight: bold;font-style: italic;}
+	#logo img {vertical-align: text-top;}	
+	#logo span {color:#2672D0;}	
+	#spot-menu {float:right;}
+
+#menu {
+
+}
+#ul-menu {
+	height: 35px;	
+	background-color:#0d83dd;
+	list-style-type:none;	
+	width:1000px;
+	border-radius:3px 3px 3px 3px;	
+	margin:0 auto;
+	display: block;
+}
+#ul-menu li {
+	list-style-type:none;	
+	float:left;
+}
+#ul-menu li > a {
+	color:#fff;
+	font-weight:bold;
+	display:block;
+	padding:8px 10px 8px 10px;
+	font-size:14px;
+	font-family: "Myriad Pro";font-weight: bold;	
+}
+
+#ul-menu li:hover > * {
+	display: block;
+	background-color:#2166BB;
+}
+
+#ul-menu li ul {
+	clear:both;
+	position: absolute;
+	display: none;
+	background-color:#0d83dd !important;	
+	border-radius:0 0 3px 3px;
+	z-index: 999;
+}
+
+#ul-menu li ul li {
+	 clear:both;
+}
+#ul-menu li ul li:hover {
+	clear:both;
+	background-color:#2166BB;	 
+	width:100%;
+}
+#ul-menu li ul li a {
+	font-weight:normal;
+}
+
+
+#ul-menu li.last {
+	float:right;
+}
+
+#ul-menu li.last form {
+	width:130px;
+	margin:3px;
+}
+
+#ul-menu li.last form input {
+	width:120px;
+}
+
+#ul-menu li.last form input.submit {
+	
+	box-shadow:none;
+	width:16px;
+	height:16px;	
+	margin-left:-20px;
+	background-color: transparent;
+	text-indent: -1000px;
+	border:none;
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGJhc2VQcm9maWxlPSJmdWxsIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWxuczpldj0iaHR0cDovL3d3dy53My5vcmcvMjAwMS94bWwtZXZlbnRzIj4KPGc%2BCgk8cG9seWdvbiBmaWxsPSIjNjY2IiBwb2ludHM9IjkuMjA3LDYuMTI2IDcuNzkzLDcuNTQxIDExLjc5MywxMS41NDEgMTMuMjA3LDEwLjEyNiIgLz4KCTxwYXRoIGZpbGw9IiM2NjYiIGQ9Ik01LjkxNywyYzEuNjA4LDAsMi45MTcsMS4zMDgsMi45MTcsMi45MTdTNy41MjUsNy44MzMsNS45MTcsNy44MzNTMyw2LjUyNSwzLDQuOTE3UzQuMzA4LDIsNS45MTcsMgoJCSBNNS45MTcsMEMzLjIwMSwwLDEsMi4yMDEsMSw0LjkxN3MyLjIwMSw0LjkxNyw0LjkxNyw0LjkxN3M0LjkxNy0yLjIwMSw0LjkxNy00LjkxN0MxMC44MzMsMi4yMDEsOC42MzIsMCw1LjkxNywwTDUuOTE3LDB6IiAvPgo8L2c%2BCjwvc3ZnPgo%3D");
+} 	
+}
+

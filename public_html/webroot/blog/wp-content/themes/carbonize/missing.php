@@ -1,0 +1,1 @@
+<div><h2><img src="<?php bloginfo('stylesheet_directory'); ?>/images/missing_icon.png" />&nbsp;&nbsp;&nbsp;Oops .. Not found. Please try searching again.</h2></div>

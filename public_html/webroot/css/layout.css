@@ -1,0 +1,13 @@
+
+#container {
+	width:1000px;
+	margin:20px auto;
+}
+
+#footer {
+	clear:both;
+	width:1000px;
+	border-top:1px solid #D1D1D1;
+	margin:20px auto;
+	padding:20px 0 20px 0;
+}

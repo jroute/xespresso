@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ext version="1.00 " language="ko">
+	<information>
+		<folder>01</folder> 
+		<license><![CDATA[수정, 재배포 가능합니다.]]></license>
+		<created>2009-02-13</created>
+	</information> 
+	<author>
+		<name>(주)플랜아이</name>
+		<homepage>http://plani.co.kr</homepage>
+		<email></email>
+	</author>
+	<icons>
+		<item0>exe.gif</item0> 
+		<item1>zip.gif</item1> 
+		<item2>bmp.gif</item2> 
+		<item3>xls.gif</item3> 
+		<item4>hwp.gif</item4> 
+		<item5>jpg.gif</item5> 
+		<item6>gif.gif</item6> 
+		<item7>png.gif</item7> 
+		<item8>pdf.gif</item8> 
+		<item9>txt.gif</item9> 
+	</icons>
+</ext>

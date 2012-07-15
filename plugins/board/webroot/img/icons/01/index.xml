@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<icon version="1.00 " language="ko">
+	<information>
+		<folder>01</folder> 
+		<license><![CDATA[수정, 재배포 가능합니다.]]></license>
+		<created>2009-02-13</created>
+	</information> 
+	<author>
+		<name>(주)플랜아이</name>
+		<homepage>http://plani.co.kr</homepage>
+		<email></email>
+	</author>
+	<icons>
+		<item0>icon_hot.gif</item0> 
+		<item1>icon_lock.gif</item1> 
+		<item2>icon_new.gif</item2> 
+		<item3>icon_nmsg.gif</item3> 
+		<item4>icon_notice.gif</item4> 
+		<item5>icon_omsg.gif</item5> 
+		<item6>rss.png</item6> 
+	</icons>
+</icon>

@@ -1,0 +1,205 @@
+
+msgid "num"
+msgstr "No"
+
+msgid "file"
+msgstr "File"
+
+msgid "subject"
+msgstr "Subject"
+
+msgid "content"
+msgstr "Content"
+
+msgid "name"
+msgstr "Name"
+
+msgid "created"
+msgstr "Date"
+
+msgid "hit"
+msgstr "Hit"
+
+msgid "notdata"
+msgstr "There is no registered data."
+
+
+msgid "category"
+msgstr "Category"
+
+msgid "email"
+msgstr "E-mail"
+
+msgid "homepage"
+msgstr "Homepage"
+
+msgid "password"
+msgstr "Password"
+
+msgid "ip"
+msgstr "IP"
+
+msgid "prev"
+msgstr "Prev"
+
+msgid "next"
+msgstr "Next"
+
+msgid "comment"
+msgstr "Comment"
+
+msgid "wv"
+msgstr "Word Verification"
+
+msgid "wv-msg"
+msgstr "Type the characters you see in the picture below."
+
+msgid "wv-refresh"
+msgstr "Word Refresh"
+
+msgid "del-msg"
+msgstr "Please enter your password"
+
+msgid "del-qmsg"
+msgstr "Do you want to delete?"
+
+
+msgid "write"
+msgstr "Write"
+
+msgid "list"
+msgstr "List"
+
+msgid "modify"
+msgstr "Modify"
+
+msgid "confirm"
+msgstr "Confirm"
+
+msgid "cancel"
+msgstr "Cancel"
+
+msgid "delete"
+msgstr "Delete"
+
+msgid "reply"
+msgstr "Reply"
+
+msgid "comment"
+msgstr "Comment"
+
+msgid "message"
+msgstr "Message"
+
+msgid "alert"
+msgstr "Alert"
+
+
+
+msgid "Please login to rate"
+msgstr "Please login to rate"
+
+msgid "Thanks for your rating"
+msgstr "Thanks for your rating"
+
+msgid "Click to remove your rating"
+msgstr "Click to remove your rating"
+
+msgid "Really bad"
+msgstr "Really bad"
+
+msgid "Bad"
+msgstr "Bad"
+
+msgid "Average"
+msgstr "Average"
+
+msgid "Good"
+msgstr "Good"
+
+msgid "Really good"
+msgstr "Really good"
+
+msgid "Please enter your name."
+msgstr "Please enter your name."
+
+msgid "Invalid email format."
+msgstr "Invalid email format."
+
+msgid "Invalid website format."
+msgstr "Invalid website format."
+
+msgid "Please enter your password."
+msgstr "Please enter your password."
+
+msgid "Please write a comment."
+msgstr "Please write a comment."
+
+msgid "Invalid captcha."
+msgstr "Invalid captcha."
+
+msgid "Comment have been registered."
+msgstr "Comment have been registered."
+
+msgid "[Alert] Check the following items"
+msgstr "[Alert] Check the following items"
+
+msgid "Comment has been deleted."
+msgstr "Comment has been deleted."
+
+msgid "[Error] Can not be deleted."
+msgstr "[Error] Can not be deleted."
+
+msgid "Attach File"
+msgstr "Attach File"
+
+msgid "twitter"
+msgstr "Twitter"
+
+msgid "facebook"
+msgstr "Facebook"
+
+msgid "me2day"
+msgstr "me2day"
+
+msgid "delicious"
+msgstr "Delicious"
+
+msgid "font"
+msgstr "Font"
+
+msgid "font large"
+msgstr "Font Large"
+
+msgid "font small"
+msgstr "Font Small"
+
+msgid "print"
+msgstr "Print"
+
+msgid ":: Category ::"
+msgstr ":: Category ::"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid ":: All ::"
+msgstr ":: All ::"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,56 @@
+
+/*** Menu ***/
+
+#menu-html {
+	float:left;
+	border:1px solid #CEE7EC;
+	width:250px;
+    height:250px;
+    margin-bottom:20px;
+	padding:10px 0 20px 10px;
+    overflow-x:hidden;
+    overflow-y:auto;
+}
+
+#menu-category {
+	border:1px solid #CEE7EC;
+	width:390px;
+	min-height: 300px;
+	padding:10px 10px 10px 10px;
+	float:left;
+}
+
+#html-src {
+	width:700px;
+	float:left;	
+	margin-left:10px;	
+}
+
+#menu-category-form {
+	position:relative;
+	margin-left:20px;
+	background:#fff;
+	width:400px;
+	float:left;
+
+
+}
+
+#menu-module {
+	margin:10px 0 10px 0;
+}
+
+#menu-module div {
+	margin:5px;
+}
+
+.menu-pass {
+	
+}
+
+.tbl-menu-module th {
+	padding:2px !important;
+}
+.tbl-menu-module td {
+	padding:2px !important;
+}
